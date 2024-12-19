@@ -1,0 +1,52 @@
+# .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.nuget
+*.log
+*.user
+*.lock.json
+*.csproj.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vscode/
+.vs/
+.vscode/*
+.vs/*
+
+# Rider
+.idea/
+.idea/*
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated_Code/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Others
+*.swp
+*~
